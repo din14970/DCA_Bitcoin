@@ -1,0 +1,9 @@
+name: dcabtc
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy
+  - matplotlib
+  - scipy
+  - jupyter
